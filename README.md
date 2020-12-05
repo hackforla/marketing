@@ -8,7 +8,7 @@ Much of hack for LA's recent marketing has centered around the website http://ha
 
 ### Technology used
 
-We use the GitHub Project Boards
+GitHub Project Boards for prioritizing issues and tracking tasks
 - [Organizational Marketing](https://github.com/hackforla/marketing/projects/2)
 - [Product Marketing](https://github.com/hackforla/marketing/projects/1)
 
