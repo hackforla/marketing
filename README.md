@@ -22,7 +22,7 @@ Slack Channel
 
 ### Team meetings
 
-Fridays at 11am PST/ 1pm CST / 2pm EST (see slack channel for details)
+Thursdays at 6pm PST/ 8pm CST / 9pm EST (see slack channel for details)
 
 
 
