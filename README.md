@@ -16,23 +16,16 @@ If you have not read the [Guide for New Volunteers](https://www.hackforla.org/ge
 The Marketing & Communications Community of Practice is one of many.  [See all our Communities of Practices](https://github.com/hackforla/communities-of-practice/blob/main/README.md)
 
 
-
 ### Team focus
 
 Much of hack for LA's recent marketing has centered around the website http://hackforla.org.  In the past, we had a active presence on social media (twitter in particular).  We aim to rebuild our social media capacity so that we can share the organizational growth, workforce development and project impact that Hack for LA has achieved over the intervening time.
 
-### Technology used
+### Where were are organizing our work
 
 GitHub Project Boards for prioritizing issues and tracking tasks
 - [Organizational Marketing](https://github.com/hackforla/marketing/projects/2)
 - [Product Marketing](https://github.com/hackforla/marketing/projects/1)
 
-Google Drive
 
-- [Marketing and Communications](https://drive.google.com/drive/u/1/folders/1EvzFDzeqZ0bWaO1doGitKa8k4Jm_78oJ)
-
-Slack Channel
-
-- To join Hack for LA's slack, self invite [here](https://hackforla.org/slack), then join us on our team slack channel #hfla-marketing
 
 
