@@ -11,7 +11,7 @@ If you have not read the [Guide for New Volunteers](https://www.hackforla.org/ge
 1. Accept your Google Drive invite to access the [shared folder](https://drive.google.com/drive/u/0/folders/1EvzFDzeqZ0bWaO1doGitKa8k4Jm_78oJ).
 1. Add yourself to the [Team Roster](https://docs.google.com/spreadsheets/d/1Y8jWBSi1t27sekpe5AgNVy-nJJMgbFKYiKrZj_XXr60/edit) and inform Bonnie after you have done so.
 1. Join our meetings Thursday at 6 pm PST via [Zoom](https://us02web.zoom.us/j/86875527482?pwd=UjViSDBLbTF2cUpPUlV5QVh4di9KZz09).
-1. Check out the [open Marketing roles](https://github.com/hackforla/marketing/projects/4) we have available.
+1. Check out the [open Marketing roles](https://github.com/hackforla/marketing/projects/4) we have available (this board is in need of an update).
 
 The Marketing & Communications Community of Practice is one of many.  [See all our Communities of Practices](https://github.com/hackforla/communities-of-practice/blob/main/README.md)
 
