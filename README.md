@@ -1,4 +1,4 @@
-# Hack for LA Marketing & Communications Team & Community of Practice 
+Marketing & Communications Team & Community of Practice 
 
 The Hack for LA Marketing team & Community of Practice works to create marketing tools and plans for our projects and for the organization.
 
