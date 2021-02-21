@@ -35,7 +35,4 @@ Slack Channel
 
 - To join Hack for LA's slack, self invite [here](https://hackforla.org/slack), then join us on our team slack channel #hfla-marketing
 
-### Team meetings
-
-Thursdays at 6pm PST/ 8pm CST / 9pm EST (see slack channel for details)
 
