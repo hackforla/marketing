@@ -1,8 +1,23 @@
-# Hack for LA Marketing
+# Hack for LA Marketing & Communications Team & Community of Practice 
 
-The Hack for LA Marketing team works to create structure for our projects and for the organization.
+The Hack for LA Marketing team & Community of Practice works to create marketing tools and plans for our projects and for the organization.
 
-### Project context
+## Let's get Started
+
+If you have not read the [Guide for New Volunteers](https://www.hackforla.org/getting-started), please do so.  
+
+1. Join the [hfla-marketing](https://hackforla.slack.com/archives/C050L8Z5K) Slack channel and introduce yourself.
+1. Slack our temporary Marketing Community of Practice lead [Bonnie](https://hackforla.slack.com/team/U013U4VN8V7) with your Gmail address.
+1. Accept your Google Drive invite to access the [shared folder](https://drive.google.com/drive/u/0/folders/1EvzFDzeqZ0bWaO1doGitKa8k4Jm_78oJ).
+1. Add yourself to the [Team Roster](https://docs.google.com/spreadsheets/d/1Y8jWBSi1t27sekpe5AgNVy-nJJMgbFKYiKrZj_XXr60/edit) and inform Bonnie after you have done so.
+1. Join our meetings Thursday at 6 pm PST via [Zoom](https://us02web.zoom.us/j/86875527482?pwd=UjViSDBLbTF2cUpPUlV5QVh4di9KZz09).
+1. Check out the [open Marketing roles](https://github.com/hackforla/marketing/projects/4) we have available.
+
+The Marketing & Communications Community of Practice is one of many.  [See all our Communities of Practices](https://github.com/hackforla/communities-of-practice/blob/main/README.md)
+
+
+
+### Team focus
 
 Much of hack for LA's recent marketing has centered around the website http://hackforla.org.  In the past, we had a active presence on social media (twitter in particular).  We aim to rebuild our social media capacity so that we can share the organizational growth, workforce development and project impact that Hack for LA has achieved over the intervening time.
 
@@ -24,12 +39,3 @@ Slack Channel
 
 Thursdays at 6pm PST/ 8pm CST / 9pm EST (see slack channel for details)
 
-
-
-
-
-### Licensing
-
-The work done is here is meant to be used by other orgs and projects outside of Hack for LA and our licencing reflects that.
-
-*this readme file sourced from [Jessica Sand](http://jessicasand.com/other-stuff/just-enough-docs/)*
