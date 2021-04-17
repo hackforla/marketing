@@ -15,7 +15,6 @@ If you have not read the [Guide for New Volunteers](https://www.hackforla.org/ge
 
 The Marketing & Communications Community of Practice is one of many.  [See all our Communities of Practices](https://github.com/hackforla/communities-of-practice/blob/main/README.md)
 
-
 ### Team focus
 
 Much of hack for LA's recent marketing has centered around the website http://hackforla.org.  In the past, we had a active presence on social media (twitter in particular).  We aim to rebuild our social media capacity so that we can share the organizational growth, workforce development and project impact that Hack for LA has achieved over the intervening time.
