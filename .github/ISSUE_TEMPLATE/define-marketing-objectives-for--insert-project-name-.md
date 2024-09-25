@@ -2,8 +2,8 @@
 name: Define Marketing Objectives for [INSERT PROJECT NAME]
 about: Describe this issue template's purpose here.
 title: Define Marketing Objectives for [INSERT PROJECT NAME] project
-labels: 'Level: Learning, Skill: Brand Strategy, Skill: Digital Marketing, Skill:
-  Media Strategy, documentation'
+labels: 'documentation, Level: Learning, Skill: Brand Strategy, Skill: Digital Marketing,
+  Skill: Media Strategy'
 assignees: ''
 
 ---
