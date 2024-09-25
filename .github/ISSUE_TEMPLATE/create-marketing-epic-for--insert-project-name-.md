@@ -1,7 +1,7 @@
 ---
 name: Create Marketing Epic for [INSERT PROJECT NAME]
 about: Describe this issue template's purpose here.
-title: 'Marketing Epic: [Name of Project]'
+title: 'Epic: Marketing: [Name of Project]'
 labels: 'feature: project marketing epic, Level: Learning, Marketing Type: Project,
   milestone: missing, PA: missing, role: marketing manager, S: missing, size: 0.25pt,
   Skill: Marketing Operations, Skill: Project Management'
@@ -44,3 +44,4 @@ We need to manage all our marketing issues in one place, so that we can better m
 - 1.03 [Marketing Repo, Issue Tab, label:"project todo"](https://github.com/hackforla/marketing/issues?q=is%3Aopen+is%3Aissue+label%3A%22project+todo%22)
 - 1.04 [Marketing Labels page, search "P:"](https://github.com/hackforla/marketing/labels?q=P%3A)
 - 1.05 [Replace with PROJECT NAME, Issues tab]
+- 1.06 This issue is a subset of: Create project and CoP marketing epics https://github.com/hackforla/marketing/issues/62
