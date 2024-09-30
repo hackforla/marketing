@@ -10,7 +10,8 @@ assignees: ''
 ---
 
 ### Overview
-We need to manage all our marketing issues in one place, so that we can better manage the marketing issues and keep the org rep and marketing CoP involved.
+We need to manage all the marketing issues for our project, so that the org rep and marketing CoP can find all our relevant issue easily and add new issues that need to be created to this epic
+
 ### Action Items
 - [ ] Go to the marketing repo labels page and click on the project label that matches this project (resource 1.04), then add all issue links to a comment on this issue under this heading
    ```
