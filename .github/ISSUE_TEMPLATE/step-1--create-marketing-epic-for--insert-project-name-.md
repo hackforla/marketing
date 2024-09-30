@@ -1,5 +1,5 @@
 ---
-name: Create Marketing Epic for [INSERT PROJECT NAME]
+name: 'Step 1: Create Marketing Epic for [INSERT PROJECT NAME]'
 about: Describe this issue template's purpose here.
 title: 'Epic: Marketing: [Name of Project]'
 labels: 'feature: project marketing epic, Level: Learning, Marketing Type: Project,
