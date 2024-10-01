@@ -3,8 +3,8 @@ name: 'Step 1: Create Marketing Epic for [INSERT PROJECT NAME]'
 about: Describe this issue template's purpose here.
 title: 'Epic: Marketing: [Name of Project]'
 labels: 'feature: project marketing epic, Level: Learning, Marketing Type: Project,
-  milestone: missing, PA: missing, role: marketing manager, S: missing, size: 0.25pt,
-  Skill: Marketing Operations, Skill: Project Management'
+  milestone: missing, P: missing, PA: missing, project todo, role: marketing manager,
+  S: missing, size: 0.25pt, Skill: Marketing Operations, Skill: Project Management'
 assignees: ''
 
 ---
