@@ -13,7 +13,9 @@ assignees: ''
 We need to manage all the marketing issues for our project, so that the org rep and marketing CoP can find all our relevant issue easily and add new issues that need to be created to this epic
 
 ### Action Items
-- [ ] Go to the marketing repo labels page and click on the project label that matches this project (resource 1.04), then add all issue links to a comment on this issue under this heading
+- [ ] Go to the marketing repo labels page and click on the project label that matches this project (resource 1.04)
+   - [ ] Copy the URL and add it to resource 2.01
+   - [ ] add all issue links to a comment on this issue under this heading
    ```
    ### [Replace NAME OF PROJECT] Team Task issues
    - 
@@ -22,13 +24,13 @@ We need to manage all the marketing issues for our project, so that the org rep 
    - [ ] Collect Marketing Assets for...
    - [ ] Define Marketing Objectives for...
 - Search the project's repo for any marketing issues, add any links you find to another comment
-  - [ ] Go to the project repo issue tab (resource 1.05)
+  - [ ] Go to the project repo issue tab (resource 2.02)
   - [ ] search for marketing issues.  They may have a role or feature label for marketing
    ```
    ### Project's repo issue searches
    ```
-  - [ ] for each search you perform, indicate what you searched in the filter bar to get the result (exclude "is:issue is:open") and link it to the URL
-  - [ ] put the links relevant to that search under that heading
+     - [ ] put the links relevant to that search under the following heading
+       - for each search you perform, indicate what you searched in the filter bar to get the result and link it to the URL (e.g., [is:issue marketing ](https://github.com/hackforla/311-data/issues?q=is%3Aissue+is%3Aopen+marketing))
    ```
    #### [Replace with what you searched for in the Filter bar]
    - 
@@ -40,9 +42,13 @@ We need to manage all the marketing issues for our project, so that the org rep 
    - [ ] Add the epic issue to their project board and cop product management agenda for discussion
 
 ### Resources
+#### Links provided by this issue
 - 1.01 [List of Project Name Labels](https://docs.google.com/spreadsheets/d/14pzhhBXBsD-l1zrHoAfS7b7KVZ6_RgIH_0gWW9EaqV4)
 - 1.02 [Marketing Repo, label page](https://github.com/hackforla/marketing/labels)
 - 1.03 [Marketing Repo, Issue Tab, label:"project todo"](https://github.com/hackforla/marketing/issues?q=is%3Aopen+is%3Aissue+label%3A%22project+todo%22)
 - 1.04 [Marketing Labels page, search "P:"](https://github.com/hackforla/marketing/labels?q=P%3A)
-- 1.05 [Replace with PROJECT NAME, Issues tab]
-- 1.06 This issue is a subset of: Create project and CoP marketing epics https://github.com/hackforla/marketing/issues/62
+- 1.05 This issue is a subset of: Create project and CoP marketing epics https://github.com/hackforla/marketing/issues/62
+
+#### Links created by working on this issue
+- 2.01 [Replace with PROJECT NAME on marketing repo, issue tab]
+- 2.02 [Replace with PROJECT NAME repo, Issues tab]
