@@ -1,14 +1,15 @@
 ---
 name: Collect Marketing Assets for your project or CoP
-about: In order to help the org to market your project, we need an inventory of assets
-title: Collect Marketing Assets for [INSERT PROJECT NAME]
+about: In order to help the org to market your project or CoP, we need an inventory
+  of assets
+title: Collect Marketing Assets for [INSERT PROJECT OR CoP NAME]
 labels: 'feature: marketing inventory checklist'
 assignees: ''
 
 ---
 
 ### Overview
-In order to help the org to market your project, we need an inventory of assets
+In order to help the org to market your project or CoP, we need an inventory of assets
 
 ### Action Items
 - [ ] Gather Links or location of each of these assets
