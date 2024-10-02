@@ -1,5 +1,5 @@
 ---
-name: 'Step 1: Create Marketing Epic for your project'
+name: 'Step 1: Create Marketing Epic for your project or CoP'
 about: Describe this issue template's purpose here.
 title: 'Epic: Marketing: [Name of Project]'
 labels: 'feature: project marketing epic, Level: Learning, Marketing Type: Project,
