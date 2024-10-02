@@ -1,5 +1,5 @@
 ---
-name: Collect Marketing Assets for [INSERT PROJECT NAME]
+name: Collect Marketing Assets for your project
 about: In order to help the org to market your project, we need an inventory of assets
 title: Collect Marketing Assets for [INSERT PROJECT NAME]
 labels: 'feature: marketing inventory checklist'
