@@ -25,7 +25,6 @@ We need to manage all the marketing issues for our project or CoP, so that the o
    - [ ] Define Marketing Objectives for...
       - [ ] if you didn't this issue for your project, then make the issue using Resource 1.07, and link it to resource 3.01
 - Search the project's repo for any marketing issues, add any links you find to another comment
-  - [ ] Go to the project repo issue tab (resource 2.02)
   - [ ] copy this search list block to a comment on this issue  
    ```
    ### Project or CoP's repo issue searches
