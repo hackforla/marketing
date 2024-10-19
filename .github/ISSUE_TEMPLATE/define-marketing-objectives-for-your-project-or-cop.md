@@ -2,8 +2,8 @@
 name: Define Marketing Objectives for your project or CoP
 about: Describe this issue template's purpose here.
 title: Define Marketing Objectives for [INSERT PROJECT OR CoP NAME] project
-labels: 'documentation, Level: Learning, Skill: Brand Strategy, Skill: Digital Marketing,
-  Skill: Media Strategy'
+labels: 'documentation, Skill: Brand Strategy, Skill: Digital Marketing, Skill: Media
+  Strategy'
 assignees: ''
 
 ---
